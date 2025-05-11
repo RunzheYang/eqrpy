@@ -11,7 +11,7 @@
 Clone the repository and install locally:
 
 ```bash
-git clone https://github.com/yourusername/eqrpy.git
+git clone https://github.com/runzheyang/eqrpy.git
 cd eqrpy
 pip install -e .
 ```
